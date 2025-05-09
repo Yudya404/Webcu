@@ -1,6 +1,6 @@
 # portofolio-v2
 
-# 🧑‍💻 Personal Website — [Yudya Hatriawan Sukma](https://your-netlify-site.netlify.app)
+# 🧑‍💻 Personal Website — [Yudya Sukma](https://yudyasukma.netlify.app/)
 
 Selamat datang di repositori **Personal Website** saya! Ini adalah sistem informasi sederhana yang menampilkan portofolio saya menggunakan **Vue.js** sebagai frontend dan dihosting menggunakan **Netlify**. 🎉
 
