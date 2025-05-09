@@ -1,6 +1,6 @@
-# portofolio-v2
+# Portofolio
 
-# 🧑‍💻 Personal Website — [Yudya Sukma](https://yudyasukma.netlify.app/)
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9rb2k2dmJtcWJ1YWljbjN1ZnN6ZmxkNWM3aWd5YnF1NmtsbGRhZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="80"/>💻 Personal Website — [Yudya Sukma](https://yudyasukma.netlify.app/)
 
 Selamat datang di repositori **Personal Website** saya! Ini adalah sistem informasi sederhana yang menampilkan portofolio saya menggunakan **Vue.js** sebagai frontend dan dihosting menggunakan **Netlify**. 🎉
 
