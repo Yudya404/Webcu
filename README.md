@@ -15,13 +15,13 @@ Selamat datang di repositori **Personal Website** saya! Ini adalah sistem inform
 ## 🛠️ Teknologi yang Digunakan
 
 - ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  [Vue.js](https://vuejs.org/) — Framework frontend progresif
+  — Framework frontend progresif
 
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework
+  — Utility-first CSS framework
 
 - ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  [Netlify](https://www.netlify.com/) — Hosting modern dan cepat
+  — Hosting modern dan cepat
 
 ## Project setup
 ```
